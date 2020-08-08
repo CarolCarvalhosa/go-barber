@@ -34,6 +34,8 @@
     "react-hooks/exhaustive-deps": "warn",
     "camelcase": "off",
     "react/jsx-one-expression-per-line": "off",
+    "arrow-body-style": "off",
+    "@typescript-eslint/ban-types": "off",
     "no-unused-expressions": "off",
     "implicit-arrow-linebreak": "off",
     "object-curly-newline": "off",
