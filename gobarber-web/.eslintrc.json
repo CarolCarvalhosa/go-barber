@@ -36,6 +36,7 @@
     "react/jsx-one-expression-per-line": "off",
     "arrow-body-style": "off",
     "@typescript-eslint/ban-types": "off",
+    "react/jsx-indent": "off",
     "no-unused-expressions": "off",
     "implicit-arrow-linebreak": "off",
     "object-curly-newline": "off",
