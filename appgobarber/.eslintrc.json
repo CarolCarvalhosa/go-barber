@@ -37,6 +37,8 @@
     "object-curly-newline": "off",
     "no-unused-expressions": "off",
     "@typescript-eslint/ban-types": "off",
+    "operator-linebreak": "off",
+    "implicit-arrow-linebreak": "off",
     "react/jsx-filename-extension": [
       1,
       {
